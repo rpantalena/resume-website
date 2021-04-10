@@ -20,8 +20,8 @@ export default function Nav() {
         <Link style={navStyle} to='/resume'>
           <li>Resume</li>
         </Link>
-        <Link style={navStyle} to='/league'>
-          <li>League</li>
+        <Link style={navStyle} to='/fortnite'>
+          <li>Fortnite</li>
         </Link>
         <Link style={navStyle} to='/chick-corea'>
           <li>Chick Corea</li>
