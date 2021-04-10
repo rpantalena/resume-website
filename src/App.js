@@ -9,7 +9,6 @@ function App() {
       <div className="App">
         <Header />
         <Switch>
-          
           <Route path="/" exact component={Home} />
           <Route path="/about" component={About} />
           <Route path="/resume" component={Resume} />
