@@ -12,11 +12,6 @@ function Header() {
   return (
     <section className="header">
       <section className="header-top">
-        <section className="header-top__logo">
-          <Link to="/" style={logoStyle} className="header-logo">
-            Logo
-          </Link>
-        </section>
         <section className="header-top_navbar">
           <section classname="header-top__navigation">
             <Nav />

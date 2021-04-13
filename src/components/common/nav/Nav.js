@@ -10,9 +10,11 @@ export default function Nav() {
 
   return (
     <nav>
+      <Link style={navStyle} to='/'>
       <h3>
-        Logo
+        Website.com
       </h3>
+      </Link>
       <ul className='nav-links'>
         <Link style={navStyle} to='/about'>
           <li>About</li>
