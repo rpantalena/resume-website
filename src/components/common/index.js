@@ -1,19 +1,10 @@
-import About from './about';
-import Button from './button';
-import ChickCorea from './chickCorea';
-import Fortnite from './fortnite';
-import Header from './header';
-import ItemDetail from './itemDetail';
-import Nav from './nav';
-import Resume from './resume';
+import About from "./about";
+import ChickCorea from "./chickCorea";
+import Fortnite from "./fortnite";
+import Header from "./header";
+import Home from "./home";
+import ItemDetail from "./itemDetail";
+import Nav from "./nav";
+import Resume from "./resume";
 
-export { 
-  About,
-  Button,
-  ChickCorea,
-  Fortnite,
-  Header,
-  ItemDetail,
-  Nav,
-  Resume
-};
+export { About, ChickCorea, Fortnite, Header, Home, ItemDetail, Nav, Resume };

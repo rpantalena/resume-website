@@ -1,0 +1,24 @@
+body {
+  color: #501700;
+  background-color: hsl(195, 70%, 91%);
+}
+
+.header-1 {
+  font-size: 1.5rem;
+  margin: 2rem;
+}
+
+.header-2 {
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.split {
+  background-color: hsl(195, 70%, 86%);
+  display: flex;
+  justify-content: space-between;
+}
+
+.split-item {
+  margin: 2rem;
+}
